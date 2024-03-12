@@ -15092,13 +15092,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1937425740719184609, guid: d716de50935314834bcd0081ca5d1a9b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bc7dec2c1d1594ad7b20c0778112ae0d, type: 2}
     - target: {fileID: 3264713970945664170, guid: d716de50935314834bcd0081ca5d1a9b, type: 3}
       propertyPath: m_Name
       value: FX_Dust_Storm
       objectReference: {fileID: 0}
     - target: {fileID: 3264713970945664170, guid: d716de50935314834bcd0081ca5d1a9b, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6640823166558019693, guid: d716de50935314834bcd0081ca5d1a9b, type: 3}
       propertyPath: m_RootOrder
